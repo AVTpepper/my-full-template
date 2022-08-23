@@ -12,7 +12,6 @@ You can check out the website [here](https://avtpepper.github.io/my-full-templat
 
 ## Project Description
 
-<hr>
 
 This site was created in order to get familiar with common development tools like Cloud9, Git & GitHub, and how ot use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program.
 
@@ -20,7 +19,6 @@ This site was created in order to get familiar with common development tools lik
 
 ## Technology
 
-<hr>
 
 This project was written in HTML & CSS using Cloud9 and is currently hosted on GitHub pages.
 
